@@ -1,7 +1,6 @@
 /**
 Created by @gamer_noob_stream
-Nesse telegram profile has necessary information for contact
-*/
+In this telegram profile you have necessary information for contact*/
 
 
 // SPDX-License-Identifier: MIT                        
