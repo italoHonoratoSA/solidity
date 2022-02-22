@@ -7,7 +7,7 @@ In this telegram profile you have necessary information for contact*/
                                                     
 pragma solidity ^0.8.6;
 
-contract ExempleLinesForAirdrop {
+contract ExampleLinesForAirdrop {
 
 
 // @dev Airdrop function that makes the best verification of the positions [i] for locating and distributing two tokens
