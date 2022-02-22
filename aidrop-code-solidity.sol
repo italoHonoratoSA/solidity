@@ -10,7 +10,7 @@ pragma solidity ^0.8.6;
 contract ExampleLinesForAirdrop {
 
 
-// @dev Airdrop function that makes the best verification of the positions [i] for locating and distributing two tokens
+// @dev Airdrop function that makes the best verification of the positions [i] for locating and distributing the tokens
 // @param calldata is necessary to indicate the explicit location of data for the variables of structure types 'address' and 'uint256'.
 // @param An indication of the explicit localization of variables around it is mandatory as of solidity v0.5. See more at https://docs.soliditylang.org/en/v0.5.0/050-breaking-changes.html
 interface IERC20 {
